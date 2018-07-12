@@ -28,10 +28,11 @@ Remember that the link element is typically contained within HTML head tags.
 
 #<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
 
-Web Concepts
-CSS Framework: Set of prewritten CSS rules designed to help you build webpages faster.
+#Web Concepts
+#CSS Framework: Set of prewritten CSS rules designed to help you build webpages faster.
 
-Bootstrap Grid: 12 equal-sized columns which can be utilized via Bootstrap classes to build responsive page layouts quickly and reliably.
+#Bootstrap 
+#Grid: 12 equal-sized columns which can be utilized via Bootstrap classes to build responsive page layouts quickly and reliably.
 
 Bootstrap classes
 row: Arranges HTML elements in rows, and can be useful when building headers/navigation menus, main feature sections, supporting content sections and footers.
