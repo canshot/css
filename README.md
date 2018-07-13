@@ -86,9 +86,11 @@ Note: Make sure that your remote's URL is typed correctly. Otherwise, you risk a
 Important: If you accidentally make a mistake when adding the remote URL, you can start over and remove the remote with the following command:
 
 git remote rm origin
+
 2.Confirm that the remote was succesfully added, by typing the following:
 
 git remote -v
+
 This command lists all the Git remotes and their corresponding URLs.
 
 
