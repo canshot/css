@@ -45,6 +45,10 @@ text-right: Bootstrap class used to orient text to the right side of the webpage
 
 btn btn-primary: Bootstrap class used to style page elements as buttons.
 
+
+
+
+
 ###jekyll
 1. gem install jekyll
 2. jekyll new my-portfolio-site
@@ -53,10 +57,10 @@ Navigate to your site's directory using the cd command.
 4. Next, use the serve command to start a local server. Then, navigate to http://localhost:4000 in the browser to view your site.
 
 ###Initialize Your Repo
-5. In the terminal to the right, open a new tab.Then, use the cd command to navigate to your site's directory.
-6. 'cd personal-website'
-7. Now that you're inside of your site's directory, initialize a Git repository with the following command:
-8. 'git init'
+1. In the terminal to the right, open a new tab.Then, use the cd command to navigate to your site's directory.
+2. 'cd personal-website'
+3. Now that you're inside of your site's directory, initialize a Git repository with the following command:
+4. 'git init'
 
 
 
