@@ -44,3 +44,13 @@ col-sm-*: Used to span a specified number of columns on the Bootstrap grid. The 
 text-right: Bootstrap class used to orient text to the right side of the webpage.
 
 btn btn-primary: Bootstrap class used to style page elements as buttons.
+
+###jekyll
+gem install jekyll
+
+
+
+
+
+
+
