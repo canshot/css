@@ -58,9 +58,9 @@ Navigate to your site's directory using the cd command.
 
 ##Initialize Your Repo
 1. In the terminal to the right, open a new tab.Then, use the cd command to navigate to your site's directory.
-2. 'cd personal-website'
+2. /'cd personal-website'
 3. Now that you're inside of your site's directory, initialize a Git repository with the following command:
-4. 'git init'
+4. /'git init'
 
 ##Add the Remote
 
@@ -76,7 +76,7 @@ The origin is an alias for the remote. You can think of an alias as an abbreviat
 
 In the terminal, you can add the remote with the following command:
 
-git remote add origin https://github.com/your-user-name/your-user-name.github.io.git
+/git remote add origin https://github.com/your-user-name/your-user-name.github.io.git
 In the example above, https://github.com/your-user-name/your-user-name.github.io.git is the remote URL that refers to the repository you created on GitHub earlier. Again, you would replace your-user-name with your actual GitHub username.
 
 Note: Make sure that your remote's URL is typed correctly. Otherwise, you risk a failed deploy.
@@ -85,11 +85,11 @@ Note: Make sure that your remote's URL is typed correctly. Otherwise, you risk a
 
 Important: If you accidentally make a mistake when adding the remote URL, you can start over and remove the remote with the following command:
 
-git remote rm origin
+/git remote rm origin
 
 2.Confirm that the remote was succesfully added, by typing the following:
 
-git remote -v
+/git remote -v
 
 This command lists all the Git remotes and their corresponding URLs.
 
