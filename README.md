@@ -93,11 +93,14 @@ Important: If you accidentally make a mistake when adding the remote URL, you ca
 
 This command lists all the Git remotes and their corresponding URLs.
 
+##Commit Your Changes
 
+We're almost there! Git also needs to know exactly which files should be pushed to your repo.
 
+In this case, we want to push all of your site's content to the repo. This means we will do the following two things (in order):
 
-
-
+1. Add all of your site's content to the Git staging area /git add . 
+2. Commit (save) your changes /git commit -m "Save my work"
 
 
 
