@@ -52,7 +52,15 @@ btn btn-primary: Bootstrap class used to style page elements as buttons.
 Navigate to your site's directory using the cd command.
 4. Next, use the serve command to start a local server. Then, navigate to http://localhost:4000 in the browser to view your site.
 
+###It's important to understand Jekyll's default directory structure and contents of your site:
 
+1. _config.yml - This is a configuration file that contains many values that need to be edited only once. These values are used across your site, for example, your site's title, your e-mail, and more. Note that this is a .yml file, which you can learn more about here.
+
+2. _includes/ - This directory contains all the partials (code templates that keep you from repeating your code over and over) that your site uses to load common components, like the header and the footer.
+
+3. _posts/ - This directory is where blog posts are stored. New blog posts can be added and will be rendered with the site's styling, as long as the file name follows Jekyll's standard naming convention.
+
+4. _layouts/ - This directory contains templates that are used to style certain types of posts within the site. For example, new blog posts will use the HTML layout defined in post.html.
 
 
 
