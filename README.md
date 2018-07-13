@@ -103,6 +103,31 @@ In this case, we want to push all of your site's content to the repo. This means
 2. Commit (save) your changes /git commit -m "Save my work"
 
 
+##Deploy Your Site
+It's time to deploy your site! Once again, we'll use Git to help deploy your site. This time, we'll use Git's push command and push the contents of your site up to your repo using the following command: /git push -u origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###It's important to understand Jekyll's default directory structure and contents of your site:
 
@@ -118,7 +143,16 @@ In this case, we want to push all of your site's content to the repo. This means
 1. Install jekyll
 2. Use jekyll to generate a static site
 3. Start local server to view my site
-
+4. Create a Github account
+5. Create the required Github repo (repository)
+6. Use Git to add, commit, and push your changes
+7. Successfully deployed your site to global internet world!
+8. Create an AWS account and access Route 53 
+9. Purchase domain name
+10. Access hosted zone and for that domain name
+11. Confirm the NS (Name Server) records
+12. Create A and CNAME records
+13. Use dig to display information about your domain name 
 
 
 
