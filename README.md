@@ -49,20 +49,21 @@ btn btn-primary: Bootstrap class used to style page elements as buttons.
 
 
 
-###jekyll
+##jekyll
 1. gem install jekyll
 2. jekyll new my-portfolio-site
 3. To view your site locally, you must first navigate to your site's directory, using the cd command.
 Navigate to your site's directory using the cd command.
 4. Next, use the serve command to start a local server. Then, navigate to http://localhost:4000 in the browser to view your site.
 
-###Initialize Your Repo
+##Initialize Your Repo
 1. In the terminal to the right, open a new tab.Then, use the cd command to navigate to your site's directory.
 2. 'cd personal-website'
 3. Now that you're inside of your site's directory, initialize a Git repository with the following command:
 4. 'git init'
 
-
+##Add the Remote
+1. 
 
 
 
