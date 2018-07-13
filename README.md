@@ -46,8 +46,8 @@ text-right: Bootstrap class used to orient text to the right side of the webpage
 btn btn-primary: Bootstrap class used to style page elements as buttons.
 
 ###jekyll
-gem install jekyll
-
+1. gem install jekyll
+2. jekyll new my-portfolio-site
 
 
 
