@@ -52,6 +52,17 @@ btn btn-primary: Bootstrap class used to style page elements as buttons.
 Navigate to your site's directory using the cd command.
 4. Next, use the serve command to start a local server. Then, navigate to http://localhost:4000 in the browser to view your site.
 
+###Initialize Your Repo
+5. In the terminal to the right, open a new tab.Then, use the cd command to navigate to your site's directory.
+6. 'cd personal-website'
+7. Now that you're inside of your site's directory, initialize a Git repository with the following command:
+8. 'git init'
+
+
+
+
+
+
 ###It's important to understand Jekyll's default directory structure and contents of your site:
 
 1. _config.yml - This is a configuration file that contains many values that need to be edited only once. These values are used across your site, for example, your site's title, your e-mail, and more. Note that this is a .yml file, which you can learn more about here.
