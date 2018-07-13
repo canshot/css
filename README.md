@@ -62,5 +62,11 @@ Navigate to your site's directory using the cd command.
 
 4. _layouts/ - This directory contains templates that are used to style certain types of posts within the site. For example, new blog posts will use the HTML layout defined in post.html.
 
+###STEP
+1. Install jekyll
+2. Use jekyll to generate a static site
+3. Start local server to view my site
+
+
 
 
